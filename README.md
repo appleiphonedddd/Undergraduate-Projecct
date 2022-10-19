@@ -16,3 +16,8 @@ git clone your branch
 cd  Undergraduate-Projecct
 pip3 -r requirements.txt
 ```
+
+## execute code
+```bash
+python3 main.py
+```
