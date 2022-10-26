@@ -1,6 +1,6 @@
 # Undergraduate-Projecct
 
-## Install requirements Python packages on Raspberry Pi
+## Setup environment and Install requirements Python packages on Raspberry Pi
 ```bash
 git clone your branch
 cd  Undergraduate-Projecct
